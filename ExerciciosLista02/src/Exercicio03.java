@@ -29,6 +29,8 @@ public class Exercicio03 {
 		}
 		System.out.println("Número de pessoas com menos de 21 anos: " + menor);
 		System.out.println("Número de pessoas com mais de 50 anos: " + maior);
+		
+		leia.close();
 	}
 
 }
