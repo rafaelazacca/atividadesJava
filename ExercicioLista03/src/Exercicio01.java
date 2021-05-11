@@ -21,7 +21,7 @@ public class Exercicio01 {
 	        System.out.println("O valor do vetor três é: " + array[3]);
 	        System.out.println("O valor do vetor quatro é: " + array[4]);
 	        System.out.println("O valor do vetor cinco é: " + array[5]);
-	        System.out.println("A soma entre os valores da posição a[0], a[1] e a[5] é: " + soma);
+	        System.out.println("A soma dos valores da posição a[0], a[1] e a[5] é: " + soma);
 
 	    }
 

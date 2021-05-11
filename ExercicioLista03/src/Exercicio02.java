@@ -14,7 +14,7 @@
 	        }
 	        
 	        
-	        System.out.println("\n===== NUMEROS PARES =====\n");
+	        System.out.println("\n== NUMEROS PARES ==\n");
 	        for(i = 0 ; i < numero.length ; i++) {
 	            if(numero[i]%2 == 0) {
 	                System.out.print(numero[i] + "\t");
@@ -23,7 +23,7 @@
 	        }
 	        
 	        System.out.println("\n\nA soma dos números pares digitados é igual a: " + somapar);
-	        System.out.println("\n===== NUMEROS ÍMPARES =====\n");
+	        System.out.println("\n== NUMEROS ÍMPARES ==\n");
 	        for(i = 0 ; i < numero.length ; i++) {
 	            if(numero[i]%2 != 0) {
 	                System.out.print(numero[i] + "\t");
