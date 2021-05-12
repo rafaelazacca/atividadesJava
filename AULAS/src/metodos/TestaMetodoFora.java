@@ -9,6 +9,6 @@ public class TestaMetodoFora {
 		{
 			numeroString = numeroString + c + "";
 		}
-		retunr numeroString; 
+		return numeroString; 
 	}
 }
