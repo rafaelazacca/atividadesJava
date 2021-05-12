@@ -19,20 +19,20 @@ public class TestaAnimal {
 		preguica.setIdade(8);
 		
 		
-		System.out.println(cao.getNome());
-		System.out.println(cao.getIdade());
+		System.out.println("Nome: " + cao.getNome());
+		System.out.println("Idade: " + cao.getIdade());
 		cao.dadosCachorro();
 		
 		System.out.println("------------------------------");
 		
-		System.out.println(cavalo.getNome());
-		System.out.println(cavalo.getIdade());
+		System.out.println("Nome: " + cavalo.getNome());
+		System.out.println("Idade: " + cavalo.getIdade());
 		cavalo.dadosCavalo();
 		
 		System.out.println("------------------------------");
 		
-		System.out.println(preguica.getNome());
-		System.out.println(preguica.getIdade());
+		System.out.println("Nome: " + preguica.getNome());
+		System.out.println("Idade: " + preguica.getIdade());
 		preguica.dadosPreguica();
 		
 		
