@@ -1,4 +1,4 @@
 # atividadesJava
 
-Aulas do primeiro bloco e listas de exercícios java - Generation
+Listas de exercícios Java desenvolvidos nas aulas do primeiro bloco da Generation.
 
